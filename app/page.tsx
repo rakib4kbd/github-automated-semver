@@ -3,6 +3,7 @@ export default function Home() {
     <div className="flex min-h-screen items-center justify-center bg-zinc-50 font-sans dark:bg-black">
       <h1>MAJOR CHANGE</h1>
       <h1>FEATURE CHANGES</h1>
+      <h1>NEXT MAJOR CHANGE</h1>
     </div>
   );
 }
